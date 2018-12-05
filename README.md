@@ -8,4 +8,3 @@
 
 ##### full.ipynb : codes for full scenario  [NOT UPLOADED YET]
 
-##### full_time_limit : codes for full scenario with 25.5 hour time limit in solver  [NOT UPLOADED YET]
