@@ -8,5 +8,5 @@
 
 ##### full.ipynb : codes for full scenario  (No solved result)
 
-### pulp library can be downloaded with "!pip install pulp" in jupyter note book command
+### pulp library can be downloaded with "!pip install pulp" in jupyter notebook command
 
